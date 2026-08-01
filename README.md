@@ -15,10 +15,9 @@ A collection of bug bounty writeups, security research notes, and learning resou
 
 ## 📂 Structure
 
-* **Google** → `googlereports.md`
-* **HackerOne** → `hackeronereports.md`
-* **Medium** → `mediumwriteupsandreports.md`
-* **Resources** → Notes on recon, Android, and tools
+* `googlereports.md`
+* `hackeronereports.md`
+* `mediumwriteupsandreports.md`
 
 ---
 
