@@ -1,4 +1,4 @@
-# InfoSec Write-ups — Bug Bounty Writeups (Critical / High / Medium)
+# InfoSec Write-ups - Bug Bounty Writeups (Critical / High / Medium)
 
 Source: https://infosecwriteups.com/all?topic=bug-bounty
 
