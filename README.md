@@ -1,4 +1,4 @@
-# 🛡️ Bug Bounty Writeups
+## 🛡️ Bug Bounty Writeups
 
 A collection of bug bounty writeups, security research notes, and learning resources.
 
