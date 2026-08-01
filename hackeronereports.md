@@ -1,6 +1,6 @@
 # HackerOne Hacktivity - Disclosed Critical/High/Medium Reports
 
-Source: https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue
+Source: https://hackerone.com/hacktivity/
 Total: 6430 (Critical: 991, High: 1935, Medium: 3504)
 
 ## Critical (991)
