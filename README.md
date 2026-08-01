@@ -13,27 +13,7 @@ A collection of bug bounty writeups, security research notes, and learning resou
 
 ---
 
-## 📂 Structure
-
-* `googlereports.md`
-* `hackeronereports.md`
-* `mediumwriteupsandreports.md`
-
----
-
 ## ⚠️ Disclaimer
 
 For educational purposes only.
 No undisclosed vulnerabilities are shared.
-
----
-
-## 🧰 Topics
-
-Web Security · Android Pentesting · GraphQL · Burp Suite · Frida · Recon
-
----
-
-## ⭐
-
-If you find this useful, consider starring the repo.
