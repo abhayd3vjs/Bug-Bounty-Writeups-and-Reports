@@ -1,4 +1,4 @@
-# Google Bug Hunters — Critical / High / Medium Severity Reports
+# Google Bug Hunters - Critical / High / Medium Severity Reports
 
 Source: https://bughunters.google.com/report/reports
 
@@ -10,13 +10,13 @@ Total public reports indexed: 225. Reports with no severity metadata set (older/
 Counts: Critical=3, High=24, Medium=56, Total=83
 
 
-## Critical (S0) — 3 reports
+## Critical (S0) - 3 reports
 
 - [other in Cloud DM](https://bughunters.google.com/reports/vrp/jaNNXm8sg) — 2020-05-08
 - [XSS in https://support.google.com/cloud/contact/prod_issue](https://bughunters.google.com/reports/vrp/7vbdEdnwc) — 2020-02-26
 - [Auth Bypass in https://www.google.com/](https://bughunters.google.com/reports/vrp/h7izQtdSo) — 2019-08-10
 
-## High (S1) — 24 reports
+## High (S1) - 24 reports
 
 - [Remote Code Execution vulnerability in LookupCache policy in Google Apigee allows attacker to execute arbitrary Java code by specially crafted cache entry](https://bughunters.google.com/reports/vrp/ujoykJ8bp) — 2023-03-15
 - [Update source code at: https://www.partneradvantage.goog/GCPPRM/s/contentdocument/ContentDocument/All](https://bughunters.google.com/reports/vrp/qsN8GqXHu) — 2022-09-27
